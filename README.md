@@ -1,29 +1,3 @@
-# web
+# NOTE
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This scratch project is just an excerpt from a full and working version. It's intended to showcase my **Vue.js** coding skill or pattern. This project has a direct dependency on a private package named **theta-core** which is not provided here. So, unless tweak otherwise, this project will not build or run.
